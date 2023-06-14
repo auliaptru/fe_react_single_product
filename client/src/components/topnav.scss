@@ -1,0 +1,27 @@
+.topnav {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    height: 10vh;
+    @media screen and (max-width: 1200px) {
+        padding-left: 60px;
+    }
+    @media screen and (max-width: 950px) {
+        height: 7vh;
+    }
+    .topnav__product-name {
+        color: white;
+    }
+    .topnav__icons {
+        display: flex;
+        align-items: center;
+        gap: 30px;
+        .topnavIcon {
+            font-size: 20px;
+            cursor: pointer;
+        }
+        @media screen and (max-width: 950px) {
+            display: none;
+        }
+    }
+}
