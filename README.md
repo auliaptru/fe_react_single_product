@@ -1,6 +1,6 @@
 ﻿# Single Product (UI) with ReactJS and Vite
 
-This Sigle Product Page is the fifth day I did the 50 Days Challenge to code using React JS! I'm also using Vite and Sass in this code.
+This Sigle Product Page is the sixth day I did the 50 Days Challenge to code using React JS! I'm also using Vite and Sass in this code.
 
 On the Single Product page, user can change the product image according to the selected color and change the favorite icon to red when the user presses the icon.
 
